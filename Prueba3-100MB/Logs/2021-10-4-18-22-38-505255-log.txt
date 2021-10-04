@@ -1,0 +1,5 @@
+Nombre del archivo: prueba100MB.txt
+Tamanio del archivo: 104857600
+Cliente que realiza la transeferencia de archivos: 2
+Estado de entrega del archivo: Thread-2: El archivo ha sido enviado de manera correcta
+Tiempo de transferencia: 0:00:25.641228
